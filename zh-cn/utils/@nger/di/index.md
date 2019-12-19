@@ -12,7 +12,7 @@
     </a>
 </p>
 
-> 实现 `依赖注入`, from `angular`
+> 实现 `依赖注入` , 实现思路来自于 `angular`
 
 package size:  `10.2 kB`
 unpacked size: `40.6 kB`
