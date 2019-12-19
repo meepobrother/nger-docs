@@ -12,7 +12,7 @@
     </a>
 </p>
 
-> 实现 `依赖注入` , 实现思路来自于 `angular`
+> 一款零依赖的`依赖注入`工具 - from angular
 
 package size:  `10.2 kB`
 unpacked size: `40.6 kB`
@@ -131,8 +131,9 @@ rootInjector.create([{
 }])
 ```
 
-## Self 和 Optional 组合
+## 组合使用
 > 使用当前，并可以为空
+
 ```ts
 rootInjector.create([{
     provide: Car,
