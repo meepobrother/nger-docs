@@ -1,0 +1,1 @@
+## StreamMethod Stream输入常规输出

@@ -1,0 +1,1 @@
+## MethodStream 常规输入Stream输出
