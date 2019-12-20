@@ -6,6 +6,23 @@
 
 ### 实现的解析器
 
-1. All,Delete,Get,Head,Put,Post,Patch,Options,Header,HttpCode,Redirect,Render
-2. Body,Headers,Query,Param
-3. Cid,Cookies,Ip,Session
+1. All,
+2. Delete,
+3. Get,
+4. Head,
+5. Put,
+6. Post,
+7. Patch,
+8. Options,
+9. Header,
+10. HttpCode,
+11. Redirect,
+12. Render
+13. Body,
+14. Headers,
+15. Query,
+16. Param
+17. Cid,
+18. Cookies,
+19. Ip,
+20. Session

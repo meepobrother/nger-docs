@@ -1,4 +1,4 @@
-## Resolver
+## ResolverProperty
 
 ```ts
 @Resolver()
