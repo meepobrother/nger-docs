@@ -54,6 +54,7 @@
 * [模块](/zh-cn/modules/index.md)
     * [@nger/cache](/zh-cn/modules/@nger/cache/index)
       * [@nger/cache.redis](/zh-cn/modules/@nger/cache.redis/index)
+    * [@nger/logger](/zh-cn/modules/@nger/logger/index)
     * [@nger/grpc](/zh-cn/modules/@nger/grpc/index)
       * [@nger/grpc.client](/zh-cn/modules/@nger/grpc.client/index)
       * [@nger/grpc.server](/zh-cn/modules/@nger/grpc.server/index)
