@@ -1,5 +1,18 @@
 ## @nger/platform.express
 
+<p>
+    <a href="https://www.npmjs.com/package/@nger/platform.express">
+        <img src="https://img.shields.io/npm/v/@nger/platform.express.svg" alt="Version">
+    </a>
+    <a href="https://www.npmjs.com/package/@nger/platform.express">
+        <img src="https://img.shields.io/npm/l/@nger/platform.express.svg" alt="License">
+    </a>
+    <a href="https://npmcharts.com/compare/@nger/platform.express?minimal=true">
+        <img src="https://img.shields.io/npm/dm/@nger/platform.express.svg" alt="Downloads">
+    </a>
+</p>
+
+
 ### @nger/demos.express
 > 用`@nger/platform.express`搭建的demo
 [@nger/demos.express](https://github.com/meepobrother/nger-demos/tree/master/packages/express)
