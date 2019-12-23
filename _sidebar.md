@@ -55,6 +55,7 @@
   * [@nger/platform.node](/zh-cn/platfrom/node)
   * [@nger/platform.express](/zh-cn/platfrom/express)
 * [模块](/zh-cn/modules/index.md)
+  * [@nger/core](/zh-cn/modules/@nger/core/index)
   * [@nger/http](/zh-cn/modules/@nger/http/index)
     * [@nger/http.node-client](/zh-cn/modules/@nger/http.node-client/index)
     * [@nger/http.node-server](/zh-cn/modules/@nger/http.node-server/index)
