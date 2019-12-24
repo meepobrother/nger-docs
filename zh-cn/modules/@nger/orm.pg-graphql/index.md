@@ -1,2 +1,0 @@
-## @nger/orm.pg-graphql
-
