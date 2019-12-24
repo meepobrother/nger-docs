@@ -71,7 +71,7 @@
   * [@nger/graphql](/zh-cn/modules/@nger/graphql/index)
     * [@nger/graphql.pg](/zh-cn/modules/@nger/graphql.pg/index)
   * [@nger/orm](/zh-cn/modules/@nger/orm/index)
-    * [@nger/orm.postgres](/zh-cn/modules/@nger/orm.postgres/index)
+    * [@nger/orm.postgres](/zh-cn/modules/@nger/orm-postgres/index.md)
   * [@nger/rx](/zh-cn/modules/@nger/rx/index.md)
     * [@nger/rx.store](/zh-cn/modules/@nger/rx.store/index.md)
     * [@nger/rx.effects](/zh-cn/modules/@nger/rx.effects/index.md)
