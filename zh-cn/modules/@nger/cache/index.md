@@ -50,13 +50,41 @@ export class DemoController{
 | [@nger/cache.memory](/) | 缓存到内存           |
 | [@nger/cache.pg](/)     | 缓存到postgres数据库 |
 
-### 使用驱动
+### Demo
 
 ```ts
+import { Module, corePlatform, Injectable } from '@nger/core'
+import { Cache, CacheModule } from '@nger/cache'
+
+@Injectable()
+export class DemoService {
+    @Cache(`demo`)
+    demo: Promise<{ key: string }>;
+}
+
+
+export class DemoCache {
+    async get<T>(key: string): Promise<T | undefined> {
+        return {
+            key
+        } as any;
+    }
+}
+
+
 @Module({
     imports: [
-        CacheRedisModule.forFeature(options)
+        CacheModule.forRoot(DemoCache as any)
+    ],
+    providers: [
+        DemoService
     ]
 })
-export class AppModule{}
+export class AppModule { }
+
+corePlatform().bootstrapModule(AppModule).then(async res => {
+    const demo = res.get(DemoService)
+    const demo2 = await demo.demo;
+    debugger;
+})
 ```
