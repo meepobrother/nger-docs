@@ -1,13 +1,8 @@
-## @nger/rx
+当`rxjs`遇到`nger`
 
-<p>
-    <a href="https://www.npmjs.com/package/@nger/rx">
-        <img src="https://img.shields.io/npm/v/@nger/rx.svg" alt="Version">
-    </a>
-    <a href="https://www.npmjs.com/package/@nger/rx">
-        <img src="https://img.shields.io/npm/l/@nger/rx.svg" alt="License">
-    </a>
-    <a href="https://npmcharts.com/compare/@nger/rx?minimal=true">
-        <img src="https://img.shields.io/npm/dm/@nger/rx.svg" alt="Downloads">
-    </a>
-</p>
+
+| 名称                                   | 作用    |
+| -------------------------------------- | ------- |
+| [@nger/rx-store](/zh-cn/modules/@nger/rx-store/index.md) | `Store` |
+| [@nger/rx-effects](/zh-cn/modules/@nger/rx-effects/index.md) | `Effects` |
+

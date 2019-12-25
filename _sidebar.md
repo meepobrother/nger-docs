@@ -49,7 +49,7 @@
     * [@nger/orm.postgres](/zh-cn/modules/@nger/orm-postgres/index.md)
   * [@nger/rx](/zh-cn/modules/@nger/rx/index.md)
     * [@nger/rx-store](/zh-cn/modules/@nger/rx-store/index.md)
-    * [@nger/effects](/zh-cn/modules/@nger/rx.effects/index.md)
+    * [@nger/rx-effects](/zh-cn/modules/@nger/rx-effects/index.md)
 * [工具](/zh-cn/utils/index.md)
   * [@nger/decorator](/zh-cn/utils/@nger/decorator/index)
   * [@nger/di](/zh-cn/utils/@nger/di/index)
