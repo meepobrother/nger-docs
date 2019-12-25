@@ -1,3 +1,7 @@
+## @nger/core
+
+- 提供基础的服务
+
 <p>
     <a href="https://www.npmjs.com/package/@nger/core">
         <img src="https://img.shields.io/npm/v/@nger/core.svg" alt="Version">

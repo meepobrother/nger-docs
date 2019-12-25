@@ -37,17 +37,28 @@ export class ConfigService {
 }
 ```
 
-## 提供相应服务
-```ts
-@Controller()
-export class DemoController {
-    @Get(``)
-    getHome() {
-        return `welcome to nger home!`
-    }
-    @Get(`user`)
-    getUser(@Query(`id`) id: number, @Query(`name`) name: string) {
-        return `welcome to user home! ${id}-${name}`
-    }
-}
-```
+| 方法            | 说明                 |
+| --------------- | -------------------- |
+| [All]()         | 响应所有类型的请求   |
+| [Get]()         | 响应`Get`的请求      |
+| [Post]()        | 响应`Post`的请求     |
+| [Delete]()      | 响应`Delete`的请求   |
+| [Head]()        | 响应`Head`的请求     |
+| [Options]()     | 响应`Options`的请求  |
+| [Patch]()       | 响应`Patch`的请求    |
+| [Post]()        | 响应`Post`的请求     |
+| [Put]()         | 响应`Put`的请求      |
+| [Query]()       | 响应`Query`的请求    |
+| [Param]()       | 响应`Param`的请求    |
+| [Body]()        | `Post`请求中的`Body` |
+| [Req]()         | 请求对象             |
+| [Res]()         | 响应对象             |
+| [Next]()        | 交给下一个处理       |
+| [HttpCode]()    | 修改`HttpCode`       |
+| [Redirect]()    | 跳转                 |
+| [Header]()      | 设置头               |
+| [Cookies]()     | `Cookies`对象        |
+| [Headers]()     | `Headers`对象        |
+| [Session]()     | `Session`对象        |
+| [UploadFile]()  | 上传的单个文件       |
+| [UploadFiles]() | 上传的多个文件       |
