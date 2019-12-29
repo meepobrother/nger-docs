@@ -7,7 +7,7 @@ import {
   Cookies,
   CURRENT_SECRET,
   COOKIE_SECRET
-} from "@nger/cookies";
+} from "./../lib";
 import {
   corePlatform,
   Module,
