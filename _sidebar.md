@@ -63,8 +63,4 @@
   * [@nger/plain](/zh-cn/utils/@nger/plain/index)
   * [@nger/cli](/zh-cn/utils/@nger/cli/index)
   * [@nger/ast](/zh-cn/utils/@nger/ast/index)
-  * [@nger/node.ip](/zh-cn/utils/@nger/node.ip/index.md)
-  * [base-x](/zh-cn/utils/base-x/index.md)
-  * [cids](/zh-cn/utils/cids/index.md)
-  * [is-ip](/zh-cn/utils/is-ip/index.md)
 
